@@ -6,7 +6,7 @@ on:
       - main  
 
 permissions:
-  contents: we  
+  contents: web
 
 jobs:
   build-and-deploy:
